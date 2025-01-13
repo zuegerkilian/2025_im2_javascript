@@ -1,7 +1,7 @@
 # 🧑🏽‍🏫 Code Alongs
 
 ### Wie es funktioniert
-Code-Alongs sind nicht dazu gedacht, alleine gelöst zu werden, sondern im Unterrich gemeinsam erarbeitet zu werden. Um sie alleine zu erarbeiten sind die Anweisungen meist nicht detailliert genug.
+Code-Alongs sind nicht dazu gedacht, alleine gelöst zu werden, sondern im Unterricht gemeinsam erarbeitet zu werden. Um sie alleine zu erarbeiten, sind die Anweisungen meist nicht detailliert genug.
 
 Im Verlaufe des Unterrichts werden **einige** dieser Code-Alongs erarbeitet werden. **Aber nicht alle**. Wenn du mega motiviert bist, eines dieser kleinen Projekte umzusetzen, kannst du sehr gerne auf uns Dozierenden/LBA's zugehen. Entweder werden wir versuchen das Code-Along in den Unterricht einzubauen, es in einer Kleingruppe zu erarbeiten oder geben genauere Instruktionen, welche es dir ermöglichen, das Code-Along selbständig zu lösen ☺️
 

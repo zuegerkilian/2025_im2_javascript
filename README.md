@@ -43,14 +43,14 @@ Zu allen besprochenen Themen findest du sogenannte Cheatsheets. Es werden dort d
 Code-Alongs sind Übungen, welche wir im Unterricht gemeinsam lösen werden. Du findest im Ordner [Code-Alongs](code-alongs) das benötigte Material. Ausserdem findest du im [README.md](code-alongs/README.md) eine Checkliste, wo du alle Code-Alongs die gemacht wurden als erledigt markieren kannst.
 
 ### ✏️ Übungen
-Nebst den Code-Alongs haben wir auch Übungen vorbereitet, die ihr selbständig lösen könnt. Im Ordner [Übungen](uebungen) findest du das entsprechende Material. Die Übungen sind thematisch sortiert. Im [README.md](uebungen/README.md) sind ausserdem alle Übungen aufgelistet und nach Schwierigkeit vertagt. Ausserdem kannst du alle Übungen die du schon gemacht hast, als erledigt markieren.
+Nebst den Code-Alongs haben wir auch Übungen vorbereitet, die ihr selbständig lösen könnt. Im Ordner [Übungen](uebungen) findest du das entsprechende Material. Die Übungen sind thematisch sortiert. Im [README.md](uebungen/README.md) sind ausserdem alle Übungen aufgelistet und nach Schwierigkeit vertagt. Ausserdem kannst du alle Übungen, die du schon gemacht hast, als erledigt markieren.
 
 ### 🔗 Quellen
 Hier aufgelistet findest du die wichtigsten Nachschlagewerke zum Thema JavaScript.
 
 - [mdn web docs](https://developer.mozilla.org/de/): Das Hauptnachschlagewerk, wenn es um HTML, CSS & JavaScript geht.
 - [javascript.info](https://javascript.info/): Hier findest du nützliche Anleitungen und grundlegende Erklärungen zu JavaScript Themen.
-- [kipura.com](https://www.kirupa.com/javascript/learn_javascript.htm): Sehr ausführlich geführter Blog zum Themen Webentwicklung, welcher ausserdem tolle & einfache Erklärungen zu JavaScript konzepten bereithält. Du findest dort auch weitere Übungen, die du zu verschiedenen Themen lösen kannst.
+- [kipura.com](https://www.kirupa.com/javascript/learn_javascript.htm): Sehr ausführlich geführter Blog zum Themen Webentwicklung, welcher ausserdem tolle & einfache Erklärungen zu JavaScript-Konzepten bereithält. Du findest dort auch weitere Übungen, die du zu verschiedenen Themen lösen kannst.
 - [30secondsofcode.org](https://www.30secondsofcode.org/js/p/1/): Auf dieser Webseite findest du zu verschiedensten Webtechnologien Code-Snippets - auch für Javascript.
 - [css-tricks.com](https://css-tricks.com/): Hauptsächlich Informationen zum Thema CSS, teilweise aber auch nützliche Artikel zum kreativen Einsatz von JavaScript (oft dann in Kombination mit CSS).
 - [⚠️ w3schools.com ⚠️](https://www.w3schools.com/js/default.asp): **DO NOT USE!** Oft wird, wenn man googelt, diese Webseite als Quelle vorgeschlagen. Leider sind die Informationen auf dieser Seite **oft veraltet** und entsprechen nicht mehr neusten Standards. Verwende diese Seite deshalb mit Vorsicht.
