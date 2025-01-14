@@ -5,12 +5,12 @@
     font-family: Inter, sans-serif;
 }
 
-[data-theme='light'] {
+html[data-theme='light'] {
     --text: #201f1f;
     --background: #ffffff;
     --accent: #44dd44;
 }
-[data-theme='dark'] {
+html[data-theme='dark'] {
     --text: #e4e0e0;
     --background: #201f1f;
     --accent: #307730;

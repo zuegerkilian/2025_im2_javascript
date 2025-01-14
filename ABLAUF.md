@@ -10,8 +10,8 @@
 1. `🧠` Theorie-Input `50'`
 2. `🧑🏽‍🏫` Code-Along [00_connect](code-alongs/00_connect) `25'`
 3. `🧑🏽‍🏫` Code-Along [01_passwort_checker](code-alongs/01_passwort_checker) `35'`
-4. `🔧` Übung [01b_taktfahrplan](uebungen/01_variablen/b_taktfahrplan) `20'`
-5. `🔧` Übung [04d_bank](uebungen/04_bedingungen/d_bank) `40'`
+4. `🔧` Übung [01b_taktfahrplan](uebungen/01_variablen/b_taktfahrplan) `30'`
+5. `🔧` Übung [04a_tuersteher](uebungen/04_bedingungen/a_tuersteher) `30'`
 6. `🧑🏽‍🏫` Code-Along [02_mrs_x](code-alongs/02_mrs_x) `30'`
 
 ### `🏙️ Zürich`
