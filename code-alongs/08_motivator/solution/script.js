@@ -3,6 +3,9 @@ const skills_ct = document.querySelector('#skills');
 const input_add = document.querySelector('#add');
 const fallback = 'ganz schön viel';
 
+// focus input field
+input_add.focus();
+
 // handle name
 let firstname = localStorage.getItem('firstname');
 if (!firstname) {

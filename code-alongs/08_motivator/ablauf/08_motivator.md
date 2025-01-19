@@ -20,5 +20,6 @@
 5. Diese Funktion initial aufrufen.
 6. Das Inputfeld für die Eingabe der Skills als `input_add` aus dem DOM laden.
 7. Einen EventListener auf das Inputfeld schreiben, der auf Enter eine neue Fähigkeit einerseits im DOM ausgibt und andererseits im Local Storage speichert.
+8. Initial soll das Input-Feld fokussiert werden
 
 > **Optional**: Wenn noch Zeit & Motivation vorhanden ist, kann auch noch eine Funktion implementiert werden, damit Fähigkeiten wieder gelöscht werden können.
