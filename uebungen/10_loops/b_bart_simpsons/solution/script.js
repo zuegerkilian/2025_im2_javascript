@@ -13,6 +13,9 @@
 * Versuche umzusetzen, dass die Sprüche leicht versetzt an der
 * Tafel erscheinen.
 *
+* Optional kannst du das Tool auch noch um ein eigenes
+* Input-Feld ergänzen, wo eigene Sprüche eingegeben werden können.
+*
 * Link: https://diesimpsons.de/die-simpsons/listen/barts-tafelsprueche/
 * */
 
