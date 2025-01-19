@@ -52,8 +52,9 @@ _tbd..._
 ### `🏔️ Chur` und `🐎 Bern`
 **Dauer**: 255 Minuten
 1. `🧠` Theorie-Input `50'`
-2. `🔧` Übung [13a_daten_laden](uebungen/13_api/a_daten_laden) `25`
-3. `🧑🏽‍🏫` Code-Along [12_projekt](code-alongs/12_projekt) `180`
+2. `🔧` Übung [12a_bilingual_json](uebungen/12_json/a_bilingual_json) `30`
+3. `🔧` Übung [13a_daten_laden](uebungen/13_api/a_daten_laden) `25`
+4. `🧑🏽‍🏫` Code-Along [12_projekt](code-alongs/12_projekt) `180`
 
 ### `🏙️ Zürich`
 _tbd..._
