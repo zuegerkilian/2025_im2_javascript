@@ -33,36 +33,37 @@ Um den Überblick zu behalten, welche Code-Alongs du schon erledigt hast, kannst
 > Erledigt: ✅<br>
 > Noch offen: ⚙️<br>
 
-| ID  | Übung               | Komplexität  | Status  |
-|-----|---------------------|--------------|---------|
-| 01a | Heat                | `🟢 Easy`    | ⚙️      |
-| 01b | Taktfahrplan        | `🟢 Easy`    | ⚙️      |
-| 01c | Smokefree           | `🟡 Okay`    | ⚙️      |
-| 03a | Help the Boss       | `🟡 Okay`    | ⚙️      |
-| 03b | Clean up the Mess   | `🔴 Uff...`  | ⚙️      |
-| 04a | Türsteher           | `🟢 Easy`    | ⚙️      |
-| 04b | OCD                 | `🟠 Machbar` | ⚙️      |
-| 04c | Schaltjahr          | `🟠 Machbar` | ⚙️      |
-| 04d | Bank                | `🟠 Machbar` | ⚙️      |
-| 05a | Hello               | `🟡 Okay`    | ⚙️      |
-| 05b | Anonym              | `🟡 Okay`    | ⚙️      |
-| 06a | Photoshop           | `🟢 Easy`    | ⚙️      |
-| 06b | Dimmer              | `🟡 Okay`    | ⚙️      |
-| 06c | Maler:in            | `🟠 Machbar` | ⚙️      |
-| 06d | Timer               | `🔴 Uff...`  | ⚙️      |
-| 07a | Player              | `🟡 Okay`    | ⚙️      |
-| 07b | Progress            | `🟠 Machbar` | ⚙️      |
-| 07c | Skip                | `🔴 Uff...`  | ⚙️      |
-| 07d | Wald                | `🟠 Machbar` | ⚙️      |
-| 08a | Research            | `🟢 Easy`    | ⚙️      |
-| 08b | Newsletter          | `🟠 Machbar` | ⚙️      |
-| 08c | Hofladen            | `🔴 Uff...`  | ⚙️      |
-| 10a | Zinsrechner         | `🟠 Machbar` | ⚙️      |
-| 10b | Bart Simpson        | `🟢 Easy`    | ⚙️      |
-| 10c | Schach              | `🟡 Okay`    | ⚙️      |
-| 10d | Kapitalverdoppelung | `🔴 Uff...`  | ⚙️      |
-| 11a | Jahreszeiten        | `🟢 Easy`    | ⚙️      |
-| 11b | Bilingual           | `🟠 Machbar` | ⚙️      |
-| 12a | Team                | `🟡 Okay`    | ⚙️      |
-| 12b | Dog                 | `🟠 Machbar` | ⚙️      |
-| 13a | Daten laden         | `🟢 Easy`    | ⚙️      |
+| ID  | Übung               | Komplexität  | Status |
+|-----|---------------------|--------------|--------|
+| 01a | Heat                | `🟢 Easy`    | ⚙️     |
+| 01b | Taktfahrplan        | `🟢 Easy`    | ⚙️     |
+| 01c | Smokefree           | `🟡 Okay`    | ⚙️     |
+| 03a | Help the Boss       | `🟡 Okay`    | ⚙️     |
+| 03b | Clean up the Mess   | `🔴 Uff...`  | ⚙️     |
+| 04a | Türsteher           | `🟢 Easy`    | ⚙️     |
+| 04b | OCD                 | `🟠 Machbar` | ⚙️     |
+| 04c | Schaltjahr          | `🟠 Machbar` | ⚙️     |
+| 04d | Bank                | `🟠 Machbar` | ⚙️     |
+| 05a | Hello               | `🟡 Okay`    | ⚙️     |
+| 05b | Anonym              | `🟡 Okay`    | ⚙️     |
+| 06a | Photoshop           | `🟢 Easy`    | ⚙️     |
+| 06b | Dimmer              | `🟡 Okay`    | ⚙️     |
+| 06c | Maler:in            | `🟠 Machbar` | ⚙️     |
+| 06d | Timer               | `🔴 Uff...`  | ⚙️     |
+| 07a | Player              | `🟡 Okay`    | ⚙️     |
+| 07b | Progress            | `🟠 Machbar` | ⚙️     |
+| 07c | Skip                | `🔴 Uff...`  | ⚙️     |
+| 07d | Wald                | `🟠 Machbar` | ⚙️     |
+| 08a | Research            | `🟢 Easy`    | ⚙️     |
+| 08b | Newsletter          | `🟠 Machbar` | ⚙️     |
+| 08c | Hofladen            | `🔴 Uff...`  | ⚙️     |
+| 10a | Zinsrechner         | `🟠 Machbar` | ⚙️     |
+| 10b | Bart Simpson        | `🟢 Easy`    | ⚙️     |
+| 10c | Schach              | `🟡 Okay`    | ⚙️     |
+| 10d | Kapitalverdoppelung | `🔴 Uff...`  | ⚙️     |
+| 11a | Jahreszeiten        | `🟢 Easy`    | ⚙️     |
+| 11b | Bilingual           | `🟠 Machbar` | ⚙️     |
+| 12a | Bilingual JSON      | `🟡 Okay`    | ⚙️     |
+| 12b | Team                | `🟡 Okay`    | ⚙️     |
+| 12c | Dog                 | `🟠 Machbar` | ⚙️     |
+| 13a | Daten laden         | `🟢 Easy`    | ⚙️     |

@@ -1,5 +1,5 @@
 /*
-* 12.b - Dog
+* 12.c - Dog
 * Kannst du dich noch an Übung 07d erinnern? Wenn schon, dann
 * hast du jetzt Glück 🥳 Ziel dieser Übung ist nämlich, den Code
 * von Übung 07d als Grundlage zu nehmen und anzupassen.

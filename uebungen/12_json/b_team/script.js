@@ -1,5 +1,5 @@
 /*
-* 12.a - Team
+* 12.b - Team
 * Du arbeitest in einem kleinen Unternehmen. Für die Webseite
 * will deine Chefin nun eine Team-Übersicht. Sie hat dir für
 * alle Personen ein separates JSON mit den Angaben zu den
@@ -32,31 +32,5 @@ const linkedinCt = personCt.querySelector('#linkedin');
 const instagramCt = personCt.querySelector('#instagram');
 
 const team = ['Alena Hugentobler', 'Anna Meier', 'Fiona Karic', 'Kevin Stierli'];
-team.forEach(person => {
-    const button = document.createElement('button');
-    button.innerText = person;
-    button.addEventListener('click', async () => {
-        const data = await loadPerson(person);
-        if (data) {
-            nameCt.innerText = data.name;
-            jobCt.innerText = data.job;
-            linkedinCt.href = data.linkedin;
-            instagramCt.href = data.instagram;
-        }
-        personCt.classList.remove('hidden');
-    });
-    buttonsCt.appendChild(button);
-})
 
-async function loadPerson (name) {
-    name = name.toLowerCase();
-    name = name.replace(' ', '-');
-    const file = `../data/${name}.json`;
-    try {
-        const personResponse = await fetch(file);
-        return await personResponse.json();
-    } catch (e) {
-        console.error(e);
-        return false;
-    }
-}
+async function loadPerson (name) {}
