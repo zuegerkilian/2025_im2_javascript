@@ -8,7 +8,6 @@
 4. Nacheinander folgende Funktionalitäten umsetzen
    1. Korrekte Buttons anzeigen & funktional machen.
    2. Verbleibende Dauer des Videos anzeigen.
-5. sdfs
 
 ### i. 🎛️ Buttons
 1. Alle Buttons nacheinander aus/einblenden und funktional machen.

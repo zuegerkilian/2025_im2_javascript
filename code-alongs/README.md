@@ -12,20 +12,20 @@ Um den Überblick zu behalten, welche Code-Alongs du schon erledigt hast, kannst
 > Erledigt: ✅<br>
 > Noch offen: ⚙️
 
-| ID | Übung                 | Status |
-|----|-----------------------|--------|
-| 00 | Connector             | ⚙️     |
-| 01 | Passwort Checker      | ⚙️     |
-| 02 | Mr:s X                | ⚙️     |
-| 03 | Steckbrief            | ⚙️     |
-| 04 | Augenarzt             | ⚙️     |
-| 05 | Videoplayer           | ⚙️     |
-| 06 | Worst DJ in the World | ⚙️     |
-| 07 | Dark Mode             | ⚙️     |
-| 08 | Motivator             | ⚙️     |
-| 09 | Einkaufsliste         | ⚙️     |
-| 10 | Freundebuch           | ⚙️     |
-| 11 | Fun with Flags        | ⚙️     |
-| 12 | Projekt               | ⚙️     |
-| 13 | Sonnenuhr             | ⚙️     |
-| 14 | Wetterschmöcker       | ⚙️     |
+| ID | Übung                 | Status | Themen                             |
+|----|-----------------------|--------|------------------------------------|
+| 00 | Connect               | ⚙️     | JS verknüpfen, Dev-Tools           |
+| 01 | Passwort Checker      | ⚙️     | Funktionen, Bedingungen            |
+| 02 | Mr:s X                | ⚙️     | Variablen, Bedingungen, Funktionen |
+| 03 | Steckbrief            | ⚙️     | DOM                                |
+| 04 | Augenarzt             | ⚙️     | DOM, Events, JS & CSS              |
+| 05 | Videoplayer           | ⚙️     | DOM, Events, Multimedia (Video)    |
+| 06 | Worst DJ in the World | ⚙️     | DOM, Events, Multimedia (Audio)    |
+| 07 | Dark Mode             | ⚙️     | LocalStorage, JS & CSS             |
+| 08 | Motivator             | ⚙️     | Arrays, LocalStorage, DOM, Events  |
+| 09 | Einkaufsliste         | ⚙️     | DOM, LocalStorage, Arrays          |
+| 10 | Freundebuch           | ⚙️     | Objekte                            |
+| 11 | Fun with Flags        | ⚙️     | JSON, Objekte, Spiel-Logik         |
+| 12 | Projekt               | ⚙️     | API, Projekt-Planung               |
+| 13 | Sonnenuhr             | ⚙️     | API                                |
+| 14 | Wetterschmöcker       | ⚙️     | API                                |
