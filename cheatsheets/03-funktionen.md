@@ -37,34 +37,34 @@ check() // gibt in der Konsole "I am working!" aus.
 ### Einfache Funktion mit Parameter
 ```js
 // Deklaration der Funktion
-function doubler (x) {
+function verdoppeln (x) {
     console.log(x * 2)
 }
 // Aufruf der Funktion
-doubler(332) // returns 664
+verdoppeln(332) // gibt 664 zurück
 ```
 
 ### Einfache Funktion mit Parameter und Fallback
 ```js
 // Deklaration der Funktion
-function multiply (x, y = 2) {
+function multiplizieren (x, y = 2) {
     console.log(x * y)
 }
 // Aufruf der Funktion
-multiply(10) // returns 20
-multiply(2,5) // returns 10
+multiplizieren(10) // gibt 20 zurück
+multiplizieren(2,5) // gibt 10 zurück
 ```
 
 ### Funktion mit Parameter und Return
 ```javascript
 // Deklaration der Funktion
-function removeP (string) {
+function p_entfernen (string) {
     return string.replace('p', '')
 }
 let message = 'propositionen und prädikate'
 // Aufruf der Funktion
-let message_manipulated = removeP(message)
-console.log(message_manipulated) // returns "roositionen und rädikate"
+let message_manipulated = p_entfernen(message)
+console.log(message_manipulated) // gibt "roositionen und rädikate" zurück
 ```
 
 ## Quellen

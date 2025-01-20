@@ -39,7 +39,7 @@ let price = 22.6
 let priceApple = 5;
 let pricePear = 7;
 let total = priceApple * 3 + pricePear * 5; 
-// Es kann mit jeglichen Mathematischen operatoren gerechnet werden
+// Es kann mit jeglichen mathematischen Operatoren gerechnet werden
 // Es gelten konventionelle mathematische Regeln wie z.B. Punkt vor Strich
 ```
 

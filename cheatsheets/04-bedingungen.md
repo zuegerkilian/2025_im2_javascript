@@ -14,7 +14,7 @@ console.log(x > y) // is bigger than | returns false
 console.log(x >= y) // is bigger than or same as | returns false
 ```
 
-Wenn mit Bedingungen gearbeitet wird, werden oft sogenannte Vergleichsoperatoren genutzt, um Werte zu vergleichen. `===` oder `<` sind beispielsweise Vergleichsoperatoren.
+Wenn mit Bedingungen gearbeitet wird, werden oft sogenannte **Vergleichsoperatoren** genutzt, um Werte zu vergleichen. `===` oder `<` sind beispielsweise Vergleichsoperatoren.
 
 ### Bedingungen verknüpfen
 ```javascript
