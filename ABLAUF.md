@@ -1,4 +1,4 @@
-# Ablauf
+# ⚙️ Ablauf Unterricht ⚙️
 
 > Dieser Ablaufplan richten sich v.a, an die Dozierenden/LBA's und bilden einen möglichen, relativ optimalen, Ablauf ab. Übungen & Code-Alongs können aber nach Belieben angepasst / weggelassen werden - je nach Wünschen/Interessen der Studierenden oder je nach Zeit. Die Zeitangaben sind ausserdem nur grobe Schätzungen.
 
