@@ -9,3 +9,5 @@
 * Wenn jemand keinen Namen eingibt, sollen die beiden
 * p-Tags entfernt werden.
 * */
+
+let name = prompt("Wie heisst du?");

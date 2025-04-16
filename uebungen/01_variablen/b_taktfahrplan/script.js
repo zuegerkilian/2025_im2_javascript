@@ -10,3 +10,10 @@
 * */
 
 const taktfahrplan_done_year = 2070;
+const birth_year = prompt ("In welchem Jahr bist du gebohren?"); // Geburtsjahr
+
+
+    let age2 = taktfahrplan_done_year - birth_year;
+    let age1 = age2 - 1;
+
+    console.log(`Du bist ${age2} oder ${age1} Jahre alt`);
